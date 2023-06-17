@@ -1,6 +1,6 @@
 # NVIM-Config
 My own NVIM configuration
--this repo was created because im trying to learn git
+-this repo was made because im trying to learn git
 
 Plugins :
 - Packer.nvim
